@@ -4,6 +4,8 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+        //pyramid
+
         int n = Integer.parseInt(scanner.nextLine());
 
         for (int row = 1; row <= n; row++) {
