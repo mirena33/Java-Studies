@@ -28,6 +28,7 @@ public class Dough {
     }
 
     public double calculateCalories() {
+
         double calories = this.weight * 2;
 
         if (this.flourType.equalsIgnoreCase("White")) {
