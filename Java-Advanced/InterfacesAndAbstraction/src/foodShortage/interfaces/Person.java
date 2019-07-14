@@ -1,4 +1,4 @@
-package defineAnInterfacePerson;
+package foodShortage.interfaces;
 
 public interface Person {
     String getName();
