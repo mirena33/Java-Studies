@@ -1,7 +1,7 @@
-function solve(num1, num2, operator){
+function solve(num1, num2, operator) {
     let result;
 
-    switch(operator){
+    switch (operator) {
         case '+': result = num1 + num2; break;
         case '-': result = num1 - num2; break;
         case '/': result = num1 / num2; break;
@@ -11,4 +11,3 @@ function solve(num1, num2, operator){
     }
     console.log(result);
 }
- 

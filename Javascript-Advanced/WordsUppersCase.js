@@ -1,6 +1,6 @@
-function solve(str){
+function solve(str) {
     return str
-    .match(/\w+/gim)
-    .map(x => x.toUpperCase())
-    .join(", ");
+        .match(/\w+/gim)
+        .map(x => x.toUpperCase())
+        .join(", ");
 }

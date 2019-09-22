@@ -1,4 +1,4 @@
-function solve(arr1, arr2, arr3){
+function solve(arr1, arr2, arr3) {
     let sumLength;
     let avrgLenth;
 
