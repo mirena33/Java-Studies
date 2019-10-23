@@ -5,3 +5,7 @@ InterfacesAndAbstraction.kotlin_module
 .name
 *.kotlin_module
 launch.json
+_mocha
+*.cmd
+esparse
+*.npmignore
