@@ -9,3 +9,4 @@ _mocha
 *.cmd
 esparse
 *.npmignore
+node
